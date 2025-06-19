@@ -1,3 +1,6 @@
 [submodule "libs/bbb_gpiolib"]
 	path = libs/bbb_gpiolib
 	url = git@github.com:Ruthiele-Oliveira/bbb_gpiolib.git
+[submodule "libs/bbb_logger"]
+	path = libs/bbb_logger
+	url = git@github.com:Ruthiele-Oliveira/bbb_logger.git
