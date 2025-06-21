@@ -1,0 +1,12 @@
+# Ignorar todos os arquivos objeto (.o) em qualquer pasta
+*.o
+
+# Ignorar o executável final gerado pelo Makefile
+# (Use o nome do seu TARGET)
+bbb_blink.app
+
+# Ignorar arquivos de log que a sua biblioteca logger possa criar
+*.log
+
+# Ignorar arquivos de backup de alguns editores de texto
+*~
